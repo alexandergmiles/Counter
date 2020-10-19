@@ -1,0 +1,22 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    color: black;
+}
+
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
